@@ -11,6 +11,9 @@ gives a score out of 5, and suggests ways to improve it.
 - Calculate the password score.
 - Display password strength (Weak, Medium, or Strong).
 - Suggest improvements based on missing requirements.
+- Organized code into separate functions.
+- Automated unit testing.
+- Edge case and boundary value testing.
 
 ## Technologies
 - Python
@@ -37,10 +40,15 @@ guarantee that a password is secure. Use sample passwords
 instead of real passwords.
 
 ## Future Improvements
-- Organize the code using functions.
-- Add automated tests.
 - Improve the password checking system.
 - Hide password input.
 
 ## Project Status
-Version 1.0 completed.
+### Version 1.0 - Completed
+- Basic password checker.
+
+### Version 2.0 - Completed
+- Code refactoring using functions.
+- Improved code readability.
+- Automated unit testing.
+- Edge case testing.
